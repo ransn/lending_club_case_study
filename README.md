@@ -47,4 +47,4 @@ Give credit here.
 - Data set and Data dictionary are as attached  .  
 
 ## Contact
-Created by ransn@githubusername or  rameez135@gmail.com	 - feel free to contact me!
+Created by ransnbvr@gmail.com or  rameez135@gmail.com	 - feel free to contact us!
